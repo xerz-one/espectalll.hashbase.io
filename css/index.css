@@ -9,16 +9,19 @@ body {
 a:link {
 	color: white;
 	outline: none;
+	transition: all .5s;
 }
 a:visited {
 	color: white;
 }
 a:hover {
 	color: #ccc;
+	transition: all .5s;
 }
 a:active {
 	color: #999;
 	outline: none;
+	transition: all .5s;
 }
 
 .centered {
@@ -54,6 +57,17 @@ a:active {
 .social * {
 	transform: skewY(3deg);
 }
+.fa {
+	display: inline-block;
+	width: 1.2em; height: 1.2em;
+	margin: 4px; padding: 4px;
+	font-size: 2em !important;
+	line-height: 1.3em !important;
+	color: rgba(240, 240, 240, 0.7);
+	border: 4px solid rgba(240, 240, 240, 0.7);
+	border-radius: 4em;
+	transition: all .5s;
+}
 .social > a:hover .fa {
 	color: /* #ccc; */ rgba(255, 255, 255, 0.9);
 	border-color: /* #ccc; */ rgba(255, 255, 255, 0.95);
@@ -65,17 +79,6 @@ a:active {
 	color: /* #999; */ rgba(255, 255, 255, 1);
 	border-color: /* #999; */ rgba(255, 255, 255, 1);
 	box-shadow: 0 0 8px #ffff7f;
-	transition: all .5s;
-}
-.fa {
-	display: inline-block;
-	width: 1.2em; height: 1.2em;
-	margin: 4px; padding: 4px;
-	font-size: 2em !important;
-	line-height: 1.3em !important;
-	color: rgba(240, 240, 240, 0.7);
-	border: 4px solid rgba(240, 240, 240, 0.7);
-	border-radius: 4em;
 	transition: all .5s;
 }
 
