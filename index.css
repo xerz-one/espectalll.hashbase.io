@@ -46,13 +46,13 @@ a:active {
 }
 
 .social {
-	width: 110%;
-	margin-left: -5%;
+	width: 100%;
 	padding: 32px 0;
 	transform: skewY(-3deg);
 	backface-visibility: hidden;
 	background: linear-gradient(#e12300, #3333ff);
-	box-shadow: inset 0 0px 11px 0px black;
+	box-shadow: inset 0px 8px 11px -8px black,
+		inset 0px -8px 11px -8px black;
 }
 .social a {
 	transform: skewY(3deg);
