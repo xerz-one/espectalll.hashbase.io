@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/espectalll
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://espectalll.gitlab.io
+  * I am espectalll (https://keybase.io/espectalll) on keybase.
+  * I have a public key with fingerprint 1196 FC8F 0266 CCB5 E5DD  CF1C 01B6 88EA 1903 A4FE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a5d71eae8fd281c01fbdcef08dab78ee578dfef9c96b70f02519fe5cb83f144a0a",
+      "fingerprint": "1196fc8f0266ccb5e5ddcf1c01b688ea1903a4fe",
+      "host": "keybase.io",
+      "key_id": "01b688ea1903a4fe",
+      "kid": "0101ea95309fba12f7a796dc702d90bd962d4aa338251ad0d4f05304834c685103180a",
+      "uid": "15247ad29818b7429a13c786ffb2bd19",
+      "username": "espectalll"
+    },
+    "service": {
+      "hostname": "espectalll.gitlab.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535298732,
+  "expire_in": 157680000,
+  "prev": "836687cce660d67d0809097439ace59d0cf57715c5fb11f3041a3c86b68fa528",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNuAnicZZJtUFRVGMd3UWDYIkybIQER7pCKrnTf77nbxCSymRYjUISJst6Xc5Y7
+bLvrvkAKa0SQCEGIxUuSToup0yQUlMLQjEOLyKgM2fCBYNAZJ2ymgZZGGUBSupf0
+k+fLmfPM7/9//s8zpz9yhc6g11+s+mvtijOP9Nf7/F5dXvmN70ow0SEfwkwlWCFc
+vqBNhm6PpVCRMROGEyQuMDJHQAECJJOAkHACibIEEQ5kQeQAhAwHZAQRL/GsyOEI
+JxmCR5CRREAhgqYFXMCMGFLsVuhyuhS7R7UlCJ5FElBZlpUkkYGMLEtI8xZZAKBA
+8Dgl0AiqwgKHW1Oo4UTBDVMUh1pTH5bH8Z7in+TG1cg8Q+E8EgWCRJzA8awscTgp
+87go8ywp04JAUUBNK8i4TCNchWlA0RILGAKnCLCc27tsRzAkzQkyyQMCiBxN8gJB
+SRxgERJJUSZ4DXRDl114H6o0dDuh5BFsNhvmM2JqvUiRoLZabZanmBSr4rEJ4v+T
+OV0Oj0Ny2FSiwONxuk2ag+eQU5MUQ9Hy2MwiKnZZ3aiqKIIut+KwYyZCJSWPorkT
+DMWoWTmKNGLwA6fighZFIxiOBbh6tD6wSLUEFMsCTpIgy+Iyy8k4wHmc52iKFyTI
+8DIuIYbjCEZikEgQSF0QIVASYNWtI4EhAaaNd9DuwEy02sojWFVPt2K1Cx6vC2K+
+X/r2rdTpDbqw0BDtq+kMEauefMDYf6KW0jaMtn/VG6zpW+qfKD29F9SHbkqoPrW7
+Z1tsYOuj5orJbZ/cHb8U+8zq4+FRvrkv0tqi43I/De5kj8z2RSU2bq74eceB9Ki6
+iYf1L9W0PhyFcTXQnD1/M/UFX+nQ3PaBsK7BG1v2p2RyFnNdLUgavx1KfbyxLLzw
+1i4sWmoeSIpuOcJMNzlvD+d6Y1ZljNO/XnN+88PUruDh1/P808F1pd781K5Ts22H
+T46+OhGfbu4JGNp9AbIgLuPP1W8d3DF8stN/tXpyyrH7NcNMde+V8Mxa7Gx7a8Nv
+/grbT4vGveuvlx/9OkHfsadjz30UMnszh4ohKgdb3m14GJOl68xM3pkV/wd/mYHz
+9m+99XZz42djPjn7ldrOS82/V55DEWfAGEqZz7l1Jxm2j7xjvrP1gL5zunJB+Ns/
+XLs/vNsakjBXt2boRNhHPy4lB7siFk9nbOmZeTbDR648WxgfFlhkNpuCZHFZ3ptj
+g737tnc6L0asbzlnnAkYrjXkV/X3tgXehg9y8ZFkx72ZwNQQd74Maxr7cOP9bHpR
+Z3x+Xd+V461B88vz96j0xqs1tSDhy+zykWgJ1aUMwEZrUk5W6nTGhYXu7n8rI2Fk
+6Tifs8FyITBQcrnjuZbPHzBNQ+l+D/VG1XvJUS9OwPxNtu9dWUcLTsDEu2kLa5um
+iteYJs8PzB1rTBz/DxldxIc=
+=VM+5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/espectalll
+
+==================================================================
